@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+}
+.btn{
+    border: none;
+}
+.box{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 745px;
+}
