@@ -10,3 +10,7 @@
     align-items: flex-end;
     height: 745px;
 }
+.colum{
+    display: flex;
+    flex-direction: column;
+}
