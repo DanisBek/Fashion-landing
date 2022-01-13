@@ -2,7 +2,7 @@
     width: 100%;
     height: 100vh;
     background: url(../images/bg.jpg) center no-repeat;
-    
+    margin-bottom: 123px;
 }
 .intro_content{
     width: 455px;
